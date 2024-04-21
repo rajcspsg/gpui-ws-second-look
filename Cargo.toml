@@ -1,0 +1,5 @@
+[workspace]
+
+members = ["chat", "ws-server"]
+
+workspace.resolver = "2"
